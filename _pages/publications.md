@@ -27,7 +27,7 @@ P. Jacobs, **N. Lenssen**, G. A. Schmidt, R. A. Rohde, M. Hendrickson (in prep) 
 
 **N. Lenssen**, L. Goddard, and S. Mason (2020), "Seasonal Forecast Skill of ENSO Teleconnection Maps" Weather and Forecasting DOI: 10.1175/WAF-D-19-0235.1.
 
-**N. Lenssen**, G. A. Schmidt, J. E. Hansen, M. Menne, R. Ruedy, A. Persin, and D. Zyss (2019), "Im- provements in the Uncertainty Model in the Goddard Institute for Space Studies Surface Temperature (GISTEMP) analysis" J. Geophys. Res. Atmos. DOI: 10.1029/2018JD029522.
+**N. Lenssen**, G. A. Schmidt, J. E. Hansen, M. Menne, R. Ruedy, A. Persin, and D. Zyss (2019), "Improvements in the Uncertainty Model in the Goddard Institute for Space Studies Surface Temperature (GISTEMP) analysis" J. Geophys. Res. Atmos. DOI: 10.1029/2018JD029522.
 * Fifth-most cited article in J. Geophys. Res. of articles published 2016–2020
 * Cited in IPCC AR6 WGI Chapters 2, 3, and 10
 
@@ -55,7 +55,7 @@ P. Jacobs, **N. Lenssen**, G. A. Schmidt, R. A. Rohde, M. Hendrickson (in prep) 
 
 P. Jacobs\*, **N. Lenssen**, G. A. Schmidt, R. A. Rohde (2021) “The Arctic Is Now Warming Four Times As Fast As the Rest of the Globe” Presentation at the AGU Fall Meeting
                   
-**N. Lenssen**\*, L. Goddard, Y. Kushnir, S. Mason (2021) “Initialized and Uninitialized ENSO Pre- dictability in Year 2” Poster at the NOAA Climate Diagnostics and Prediction Workshop
+**N. Lenssen**\*, L. Goddard, Y. Kushnir, S. Mason (2021) “Initialized and Uninitialized ENSO Predictability in Year 2” Poster at the NOAA Climate Diagnostics and Prediction Workshop
 
 J. Jonas, M. Kelley, **N. Lenssen**, R. Miller\*, L. Nazarenko, C. Orbe\*, D. Rind, A. Romanou, G. Russell, G. Schmidt (2021), “Overview of predictability using GISS ModelE” Presentation at the US Climate Modeling Summit Workshop
 
@@ -63,16 +63,16 @@ J. Jonas, M. Kelley, **N. Lenssen**, R. Miller\*, L. Nazarenko, C. Orbe\*, D. Ri
 
 **N. Lenssen**\*, G. A. Schmidt, J. E. Hansen, et al. (2019), “Improvements in the GISTMP Uncertainty Model” Presentation at the AGU Fall Meeting
 
-**N. Lenssen**\*, L. Goddard, S. Mason (2019), “Revisiting the Climatology Reference in Seasonal Fore- casting of Precipitation” Presentation at the International Meetings on Statistical Climatology
+**N. Lenssen**\*, L. Goddard, S. Mason (2019), “Revisiting the Climatology Reference in Seasonal Forecasting of Precipitation” Presentation at the International Meetings on Statistical Climatology
 
 **N. Lenssen**\*, G. A. Schmidt, J. E. Hansen, et al. (2019), “Improvements in the Uncertainty Model in the Goddard Institute for Space Studies Surface Temperature (GISTEMP) Analysis” Presentation at the International Meetings on Statistical Climatology
 
-**N. Lenssen**\*, L. Goddard, S. Mason (2018), “Communication of ENSO-Related Precipitation Anoma- lies to Resource Constrained Decision-Makers” Poster at the AGU Fall Meeting
+**N. Lenssen**\*, L. Goddard, S. Mason (2018), “Communication of ENSO-Related Precipitation Anomalies to Resource Constrained Decision-Makers” Poster at the AGU Fall Meeting
 
 **N. Lenssen**\*, A. Hannart, D. Hammerling (2018), “Tunable Testbed for Detection and Attribution Methods” Invited Presentation at the Statistical and Applied Mathematical Sciences Institute (SAMSI) Program on Mathematical and Statistical Methods for Climate and the Earth System (CLIM) Transition Workshop
 
 **N. Lenssen**\*, A. Hannart, D. Hammerling (2018), “Tunable Testbed for Detection and Attribution Methods” Presentation at the International Detection and Attribution Group Workshop
 
-D. Hammerling\*, **N. Lenssen**, D. Nychka, S. R. Sain (2014), “NCAR Supercomputing for Multi- Resolution Gaussian Process Modeling” Invited Poster at the Joint Statistical Meetings
+D. Hammerling\*, **N. Lenssen**, D. Nychka, S. R. Sain (2014), “NCAR Supercomputing for Multi-Resolution Gaussian Process Modeling” Invited Poster at the Joint Statistical Meetings
 
 

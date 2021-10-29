@@ -47,7 +47,7 @@ P. Jacobs, **N. Lenssen**, G. A. Schmidt, R. A. Rohde, M. Hendrickson (in prep) 
 
 **N. Lenssen** (2013), “Fundamental Limits of Detection in the Near and Mid Infrared” CMC Senior Theses. Paper 800. http://scholarship.claremont.edu/cmc_theses/800
 
-# Conference Presentations
+## Conference Presentations
 
 \* indicates presenting author(s)
 

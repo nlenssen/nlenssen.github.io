@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D. in Earth and Environmental Sciences, Columbia University, 2022 (expected)
+* M.Phil. in Earth and Environmental Sciences, Columbia University, 2021
+* M.A. in Earth and Environmental Sciences, Columbia University, 2019
+* M.A. in Statistics, Columbia University, 2017
+* B.A. in Physics with Honors, Claremont McKenna College, 2013
+* B.A. in Mathematics with Honors, Claremont McKenna College, 2013
 
 Work experience
 ======

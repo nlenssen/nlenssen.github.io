@@ -28,8 +28,8 @@ P. Jacobs, **N. Lenssen**, G. A. Schmidt, R. A. Rohde, M. Hendrickson (in prep) 
 **N. Lenssen**, L. Goddard, and S. Mason (2020), "Seasonal Forecast Skill of ENSO Teleconnection Maps" Weather and Forecasting DOI: 10.1175/WAF-D-19-0235.1.
 
 **N. Lenssen**, G. A. Schmidt, J. E. Hansen, M. Menne, R. Ruedy, A. Persin, and D. Zyss (2019), "Improvements in the Uncertainty Model in the Goddard Institute for Space Studies Surface Temperature (GISTEMP) analysis" J. Geophys. Res. Atmos. DOI: 10.1029/2018JD029522.
-* Fifth-most cited article in J. Geophys. Res. of articles published 2016–2020
-* Cited in IPCC AR6 WGI Chapters 2, 3, and 10
+    * Fifth-most cited article in J. Geophys. Res. of articles published 2016–2020
+    * Cited in IPCC AR6 WGI Chapters 2, 3, and 10
 
 **N. Lenssen**, A. Hannart, and D. Hammerling (2018), "Simulation Testbed for Trend Detection and Attribution Methods" NCAR Technical Note. DOI: 10.26024/xfmm-hj36
 

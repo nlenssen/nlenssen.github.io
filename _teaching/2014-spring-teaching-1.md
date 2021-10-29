@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "EESC 3114 Impacts of Climate Change on Humans in NYC"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Columbia University, Earth and Environmental Sciences"
+date: 2022-01-01
+location: "New York, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Self-designed syllabus nominated by the Department of Earth and Environmental Sciences for and awarded a Columbia Graduate School of Arts and Sciences Teaching Scholars Fellowship
 
 Heading 1
 ======

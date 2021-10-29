@@ -2,7 +2,7 @@
 title: "EESC 3114 Impacts of Climate Change on Humans in NYC"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-spring-teaching-1
 venue: "Columbia University, Earth and Environmental Sciences"
 date: 2022-01-01
 location: "New York, NY"

@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Understanding Earth’s Climate System"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "High School Course"
+permalink: /teaching/2020-teaching-1
+venue: "Columbia Science Honors Program"
+date: 2020-01-01
+location: "New York, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Designed and taught a 12 week (2.5 hour lessons) high school course on climate science, climate impacts, and climate mitigation and adaptation with Corey Lesk

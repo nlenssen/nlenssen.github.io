@@ -39,6 +39,5 @@ Teaching and Outreach
 Fun Stuff
 -----
 
-# Test header 1
-## Test header 2
-### Test header 3
+### Biking
+

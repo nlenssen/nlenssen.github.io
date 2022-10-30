@@ -7,8 +7,8 @@ main:
     url: /teaching/    
 
   - title: "Outreach"
-    url: /portfolio/    
+    url: /outreach/    
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
    

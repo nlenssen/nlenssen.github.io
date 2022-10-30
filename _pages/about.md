@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-A data-driven personal website
+Climate and Data Scientist
 ======
 
 

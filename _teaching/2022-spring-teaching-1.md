@@ -8,18 +8,20 @@ date: "Spring 2022"
 location: "New York, NY"
 ---
 
+**Motivating Questions:** How has climate shaped the history and development of NYC? How do climate and climate change affect our lives today? How will climate change affect our lives tomorrow?
+
 Self-designed syllabus nominated by the Department of Earth and Environmental Sciences for and awarded a [Columbia Graduate School of Arts and Sciences Teaching Scholars Fellowship](https://www.gsas.columbia.edu/content/gsas-teaching-scholars-program). Final zine project funded by a [Columbia Center for Science and Society Seed Grant](https://scienceandsociety.columbia.edu/content/2022-seed-grants).
 
 [Spring 2022 Syllabus (pdf)](./files/EESC3114Syllabus.pdf)
 
 Student Outcomes
 ======
-- Overall student evaluation score 4.92/5.00 with 12/13 students responding.
-- In evaluations, many students reported they learned about the climate system and it's effect on human systems. In addition, they reported learning the general skills of how to write a scientific paper, analyze data, and perform a literature review.
-- All students completed the final scientific paper and met or exceeded standards.
-- Students enrolled from 5+ majors including Environmental Sciences, Environmental Studies, Economics, Political Science, and American Studies.
-- One student's final paper has been submitted to [The American Journal of Undergraduate Research](http://www.ajuronline.org/)
-- One student's final zine was accepted in the 
+* Overall student evaluation score 4.92/5.00 with 12/13 students responding.
+* In evaluations, many students reported they learned about the climate system and it's effect on human systems. In addition, they reported learning the general skills of how to write a scientific paper, analyze data, and perform a literature review.
+* All students completed the final scientific paper and met or exceeded standards.
+* Students enrolled from 5+ majors including Environmental Sciences, Environmental Studies, Economics, Political Science, and American Studies.
+* One student's final paper has been submitted to [The American Journal of Undergraduate Research](http://www.ajuronline.org/)
+* One student's final zine was accepted in the 
 
 Course Description
 ======

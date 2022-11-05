@@ -10,7 +10,7 @@ location: "New York, NY"
 
 Self-designed syllabus nominated by the Department of Earth and Environmental Sciences for and awarded a Columbia Graduate School of Arts and Sciences Teaching Scholars Fellowship
 
-(Spring 2022 Syllabus (pdf))[./files/EESC3114Syllabus.pdf]
+[Spring 2022 Syllabus (pdf)](./files/EESC3114Syllabus.pdf)
 
 Course Description
 ======

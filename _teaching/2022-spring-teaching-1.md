@@ -10,11 +10,31 @@ location: "New York, NY"
 
 Self-designed syllabus nominated by the Department of Earth and Environmental Sciences for and awarded a Columbia Graduate School of Arts and Sciences Teaching Scholars Fellowship
 
-Heading 1
+(Spring 2022 Syllabus (pdf))[./files/EESC3114Syllabus.pdf]
+
+Course Description
+======
+How has climate shaped the history and development of NYC? How do climate and climate change affect our lives today? How will climate change affect our lives tomorrow?
+
+Variations in climate and weather have been major sources of risk and opportunity for humanity long before the industrial revolution began warming the planet. The growing impacts of climate change on human civilization over recent decades have turned attention from the future of our climate to the present. In this course, we investigate how the climate system intersects and interacts with the complex human system of NYC.
+
+The trajectory of this course will be set by the drafting of a final paper and presentation which will be done in small pieces throughout the semester. The first few weeks of the course will include lectures, activities, and assignments that will guide the selection of a specific climate impact for NYC and the formation of a research question for your final paper and presentation. This initial research question will then guide the majority of your assignments for the rest of the semester. Using this question, the five major sections of a scientific paper structure the schedule for the remainder of the course: Introduction, Data, Methods, Results, and Conclusions. 
+
+By the end of this course you will be able to...
+1. Write a paper synthesizing climate and socioeconomic data to quantify the impacts of climate change on humans in NYC.
+2. Define and distinguish between climate variability and climate change and determine the contributions of natural climate variability and climate change to increased risk of a climate impact.
+3. Use model and observational climate data to quantify and understand changes in the climate system that have occurred in the past and may occur in the future.
+4. Determine and quantify the risk of exposure to climate impacts for various populations of humans in NYC while accounting for the inherent uncertainty in projections of natural and human systems.
+
+
+In addition to these objectives, you will gain the following transferrable skills that will serve your development as a general researcher and critical thinker. You will learn...
+1. How to conduct statistical analyses and create figures in excel and/or python.
+2. Methods for conducting a scientific literature review and reading scientific papers.
+3. Resources and methods to find, download, and process climate data so that it can be used in a research project.
+4. How to write the five sections of a scientific paper.
+5. How to give and receive feedback from your peers.
+
+Climate Zine Final Project
 ======
 
-Heading 2
-======
 
-Heading 3
-======

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Columbia University, Earth and Environmental Sciences"
-date: "Spring 2022"
+date: 2022-01-01
 location: "New York, NY"
 ---
 

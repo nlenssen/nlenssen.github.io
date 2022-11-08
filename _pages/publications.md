@@ -24,11 +24,11 @@ P. Jacobs, **N. Lenssen**, G. A. Schmidt, R. A. Rohde, M. Hendrickson (in prep) 
 
 ## Peer Reviewed
 
-K. Schwarzwald, **N. Lenssen** (2022) "The Importance of Internal Climate Variability in Climate Impact Projections" Proceedings of the National Academy of Sciences DOI: [10.1073/pnas.2208095119](https://doi.org/10.1073/pnas.2208095119), [EarthArXiV final Proof (OPEN ACCESS)](https://eartharxiv.org/repository/view/4626/)
+K. Schwarzwald, **N. Lenssen** (2022) "The Importance of Internal Climate Variability in Climate Impact Projections" Proceedings of the National Academy of Sciences. DOI: [10.1073/pnas.2208095119](https://doi.org/10.1073/pnas.2208095119), [EarthArXiV final Proof (OPEN ACCESS)](https://eartharxiv.org/repository/view/4626/)
 
-**N. Lenssen**, L. Goddard, and S. Mason (2020), "Seasonal Forecast Skill of ENSO Teleconnection Maps" Weather and Forecasting DOI: [10.1175/WAF-D-19-0235.1](https://doi.org/10.1175/WAF-D-19-0235.1)
+**N. Lenssen**, L. Goddard, and S. Mason (2020), "Seasonal Forecast Skill of ENSO Teleconnection Maps" Weather and Forecasting. DOI: [10.1175/WAF-D-19-0235.1](https://doi.org/10.1175/WAF-D-19-0235.1)
 
-**N. Lenssen**, G. A. Schmidt, J. E. Hansen, M. Menne, R. Ruedy, A. Persin, and D. Zyss (2019), "Improvements in the Uncertainty Model in the Goddard Institute for Space Studies Surface Temperature (GISTEMP) analysis" JGR Atmospheres DOI: [10.1029/2018JD029522](https://doi.org/10.1029/2018JD029522) 
+**N. Lenssen**, G. A. Schmidt, J. E. Hansen, M. Menne, R. Ruedy, A. Persin, and D. Zyss (2019), "Improvements in the Uncertainty Model in the Goddard Institute for Space Studies Surface Temperature (GISTEMP) analysis" JGR Atmospheres. DOI: [10.1029/2018JD029522](https://doi.org/10.1029/2018JD029522) 
 * Fifth-most cited article in JGR of articles published 2016–2020
 * Cited in IPCC AR6 WGI Chapters 2, 3, and 10
 

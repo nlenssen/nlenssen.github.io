@@ -50,6 +50,6 @@ Climate Zine Final Project
 
 My colleagues Elizabeth Case and Suki Wong proposed writing a small grant to fund the design and printing of student climate zines (independently published short-form works of text and images). Together with Professor Oren Pizmony-Levy, we wrote and won a [Columbia Center for Science and Society Seed Grant](https://scienceandsociety.columbia.edu/content/2022-seed-grants) and were able to have each student design and print a zine on their research as part of their final project. The final zines were distributed throughought broader Columbia and NYC through zine libraries and community spaces. The project provided students with a creative space to communicate their research to their peers and broader community. 
 
-[Elizabeth Case leading an early brainstorming activity in the EESC3114 classroom.](../files/zinePhoto.jpg)
+![Elizabeth Case leading an early brainstorming activity in the EESC3114 classroom.](../files/zinePhoto.jpg)
 
 
